@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 10px 10px 10px rgb(6, 156, 156);
+    font-weight: 100px;
+}
+a{
+    display: block;
+}
+#a{
+    color: red;
+}
+*{
+    background-color: aquamarine;
+}
+
